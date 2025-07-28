@@ -1,0 +1,21 @@
+{
+  "name": "readline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinSoto07/progEstructurada---Clases.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinSoto07/progEstructurada---Clases/issues"
+  },
+  "homepage": "https://github.com/KevinSoto07/progEstructurada---Clases#readme",
+  "description": ""
+}
